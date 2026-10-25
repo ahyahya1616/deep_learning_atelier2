@@ -10,7 +10,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahyahya1616/deep_learning_atelier2/blob/main/notebooks/Atelier2_Vision_Architectures.ipynb)
 
 **Université Abdelmalek Essaâdi — Faculté des Sciences et Techniques de Tanger (FSTT)**  
-*Département de Génie Informatique | Master / Filière: LSI (Génie Logiciel et Systèmes Intelligents)*  
+*Département de Génie Informatique | Cycle Ingénieur | Filière: LSI (Génie Logiciel et Systèmes Intelligents)*  
 **Module :** Deep Learning | **Encadrant :** Pr. Lotfi ELAACHAK  
 **Auteur :** Yahya Ahmane ([@ahyahya1616](https://github.com/ahyahya1616))
 
